@@ -1,1 +1,1 @@
-# genai
+# Backend codes for GenAI
